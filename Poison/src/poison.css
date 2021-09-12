@@ -3668,6 +3668,7 @@
 .avatar-37jOim { /*User card avatar*/
     border: none;
     background-color: transparent;
+    radius: 20px;
 }
 .aboutMeSection-3bipSD,
 .aboutMeSection---MkQa { /*About me*/
