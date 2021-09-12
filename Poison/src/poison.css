@@ -13,7 +13,7 @@
 
 :root {
     /*Background settings*/
-    --background-image: url('https://i.imgur.com/B5pCrRt.jpg'); /*Background image*/
+    --background-image: url('https://cdn.discordapp.com/attachments/753342603583553646/884134000141160498/seseris_wide5.png'); /*Background image*/
     --menu-bg: url('https://i.imgur.com/pvk9Zir.png'); /*Background image for some panels, like right click*/
     --bg-blur: 0px; /*Background blur | Default 0px*/
     --bg-opacity: 0.4; /*Background opacity | Default 0.4*/
@@ -27,7 +27,7 @@
     --general-radius: 5px; /*Changes the radius of most modals | Default 5px*/
     --main-color: 52, 52, 52; /*Main color of the theme | WARNING: USE RGB VALUES IF YOU CHANGE THE COLOR | Default 52, 52, 52*/
     --main-accent: 147, 227, 32; /*Theme accent color | WARNING: USE RGB VALUES IF YOU CHANGE THE COLOR | Default 147, 227, 32*/
-    --avatar-radius: 5px; /*Avatar's radius | Default 5px*/
+    --avatar-radius: 13px; /*Avatar's radius | Default 5px*/
     --links-color:  147, 227, 32; /*Changes the color of the links | Default 147, 227, 32*/
     --settings-width: 60%; /*Width for the settings window | Default 60%*/
     --settings-heigth: 85%; /*Width for the settings window | Default 85%*/
